@@ -220,14 +220,10 @@ reserves, they will take doubled damage.
 Brom's Barrelling Boulder spell
 
 Unleashes a massive rolling boulder in a given compass direction. This boulder
-damages any creature it hits, rolling over those who perish beneath it and
-pushing any others helplessly backwards (along with anyone else unfortunate
-enough to be standing behind them).
+damages any creature it hits, pushing anyone in its way backwards.
 
-Its size and reckless locomotion make it difficult to use in confined areas; if
-lauched down narrow passages, it will rapidly abrade against the walls and fall
-apart. It will also crumble if it leaves the caster's sight or strikes a wall
-or otherwise unmoveable creature.
+Its size make it difficult to use in confined areas. It will crumble if it 
+leaves the caster's sight or strikes a wall or otherwise unmoveable creature.
 %%%%
 Brothers in Arms spell
 
@@ -321,11 +317,11 @@ Exhales a large cloud of fumes filled with the very essence of chaos.
 %%%%
 Cigotuvi's Putrefaction spell
 
-Magically accelerates the decay of damaged living tissue, causing great clouds
-of miasma to billow forth from a targeted victim's wounds over several turns
-which may slow and heavily poison any living creature who stands in them. Air
-currents will prevent this pestilence from forming wherever the caster is
-standing, but they are not otherwise protected from its effects.
+Accelerates the decay of the target enemy, causing great clouds of miasma to 
+billow forth from the victim's wounds over several turns which may slow and 
+heavily poison any living creature who stands in them. Air currents will 
+prevent this pestilence from forming wherever the caster is standing, but they 
+are not otherwise protected from its effects.
 
 This spell may only be cast on a living creature who is at least heavily
 wounded, and channelling such necrotic energies will leave the caster's own
@@ -356,10 +352,9 @@ Induces a state of bewilderment and confusion in a creature's mind.
 %%%%
 Confusing Touch spell
 
-Enchants the caster's dominant hand with magical energy. This energy is
-released when the caster touches a monster, and may induce a state of confusion
-in the monster. The caster's attacks do no damage while attempting to touch a
-monster in this way.
+Enchants the caster's hands with magical energy. This energy is released when 
+the caster touches a monster, and may induce a state of confusion in them. The 
+caster's attacks do no damage while attempting to touch a monster in this way.
 %%%%
 Confusion Gaze spell
 
@@ -384,10 +379,9 @@ to enter their range. Once cast, they dissipate.
 %%%%
 Construct Spike Launcher spell
 
-Constructs a simple mechanical trap within an adjacent wall which repeatedly
-skewers random adjacent enemies. Protected by the wall itself, it is
-invulnerable to most forms of damage, but will fall apart if the caster leaves
-its vicinity.
+Installs a mechanical trap within an adjacent wall which repeatedly skewers 
+adjacent enemies. It is invulnerable to most forms of damage, but will fall apart 
+if the caster leaves its vicinity.
 %%%%
 Corona spell
 
@@ -596,7 +590,7 @@ Shoots a stream of webbing at a creature, ensnaring the target in a sticky web.
 %%%%
 Ensorcelled Hibernation spell
 
-Lowers its target's metabolic rate, inducing hibernation. After awakening, the
+Rapidly lowers the target's metabolic rate, inducing sleep. After awakening, the
 target will be unable to be put to sleep again for some time.
 %%%%
 Entropic Weave spell
@@ -605,12 +599,10 @@ Corrodes the target, with no direct line of fire required.
 %%%%
 Eringya's Noxious Bog spell
 
-Causes the caster to release a torrent of sludge that transforms nearby areas
-into a toxic bog. The sludge damages and poisons all monsters, even those
-resistant to poison. The bog cannot form on areas adjacent to multiple solid
-features, nor on areas that lack solid floor, like deep water or lava. The
-transformation is temporary and cannot be sustained out of the caster's sight.
-Spellpower will increase how long the bog lingers.
+Trasforms nearby areas into a toxic bog. The sludge damages and poisons all
+monsters, even those resistant to poison. The bog requires open, solid terrain
+to be fully unleashed. The transformation is temporary and cannot be sustained 
+out of the caster's sight. Spellpower will increase how long the bog lingers.
 %%%%
 Eringya's Surprising Crocodile spell
 
@@ -708,19 +700,18 @@ whichever of them is most distant from it.
 %%%%
 Forge Monarch Bomb spell
 
-Constructs a flying incendiary factory, packed to the brim with cluster bomblets
-which it can deploy both in melee and launch at range. While the monarch's
-bomblets have no attack of their own, they will pursue the caster's enemies
-until given the signal to explode.
+Constructs a flying bomb, packed to the brim with cluster bomblets which it 
+rapidly deploys. While the monarch's bomblets have no attack of their own,
+they will pursue the caster's enemies until given the signal to explode.
 
-Recasting this spell while anything created by is still active will detonate the
-monarch bomb and all bomblets, dealing a combination of fire and physical damage
-to everything adjacent to them besides the caster themselves.
+Recasting while anything created by this spell is still active will detonate the
+monarch bomb and all bomblets, dealing fire and physical damage to everything
+adjacent to them besides the caster themselves.
 %%%%
 Forge Phalanx Beetle spell
 
 Constructs a small mechanical guardian which bolsters its creator's armour
-class for as long as it remains adjacent to them.
+class as long as it remains adjacent to them.
 
 While also capable of biting foes, the phalanx beetle will never voluntarily
 leave its creator's side, and if forcibly separated, will prioritize returning
@@ -731,14 +722,13 @@ own durability.
 %%%%
 Fortress Blast spell
 
-Draws upon the caster's own physical integrity to create a kinetic shockwave
-that damages foes in a large area. The caster is locked in place for several
-turns as the shockwave starts to form, and the spell will be cancelled if they
-are displaced during that time, but they may otherwise perform other actions
-freely.
+After a brief charging period, the caster's armor unleashes a massive kinetic 
+shockwave. The caster is locked in place while charging, and the spell will be 
+cancelled if they are displaced during that time, but they may perform other
+actions freely.
 
-Spellpower causes the spell to complete more quickly, but the damage depends
-entirely upon the caster's AC.
+Spellpower improves the charging speed, but the damage depends entirely upon the 
+caster's AC.
 %%%%
 Foxfire spell
 
@@ -765,12 +755,9 @@ The ice will crack and fall away if the caster moves to a new position.
 %%%%
 Fugue of the Fallen spell
 
-Calls out to the lingering remnants of the long dead. While active, each
-non-summoned enemy the caster or their allies slays attracts more vengeful
-souls into the caster's weapon, temporarily enhancing their melee and ranged
-effectiveness. When this bonus reaches its maximum, every hit will unleash a
-glimmer of the dead's suffering, causing pain damage to each other foe adjacent
-to your target.
+Calls forth the vengeful dead, who empower your melee and ranged combat as 
+enemies are slain. At maximum strength, your physical attacks inflict pain
+damage to foes adjacent to your target.
 
 Recasting this spell will release your grip on the souls you've attracted,
 resetting any bonus you've accumulated, and the cacophonous wailing of the dead
@@ -778,10 +765,8 @@ may attract unwanted attention even while you maintain it.
 %%%%
 Fulminant Prism spell
 
-Conjures a shining prism of an unstable soft gold alloy. This is useless as
-legal tender, however, as it will unfortunately violently explode with arcane
-force after a short duration. If destroyed prematurely, its blast will be much
-weaker.
+Conjures a fragile prism of pure magic that explodes after a few turns. If 
+destroyed prematurely, its blast will be much weaker.
 %%%%
 Fulsome Fusillade spell
 
@@ -809,8 +794,7 @@ Galvanic Breath spell
 %%%%
 Gell's Gavotte spell
 
-Briefly reorients local gravity to be in a cardinal direction of the caster's
-choosing, causing all creatures in sight to tumble a short distance in that
+Causes all creatures in sight to tumble a short distance in target cardinal
 direction.
 
 The caster is not immune to the gravitational effects of this spell, but will
@@ -853,7 +837,7 @@ out of view.
 Grave Claw spell
 
 Calls forth the spite of the recently dead to skewer a targeted enemy with
-shards of bone. This spell never misses, and will pin its target in place for
+shards of bone. This spell cannot miss, and will pin its target in place for
 several turns, but casting it rapidly consumes the remnants of death that linger
 upon the caster.
 
@@ -872,7 +856,7 @@ scattering additional webs nearby that dissolve after a short length of time.
 %%%%
 Hailstorm spell
 
-Conjures a cannonade of hail, battering nearby creatures that fail to dodge.
+Conjures a pelt of hail, battering nearby creatures that fail to dodge.
 The eye of the storm is wide enough that monsters adjacent to the caster are
 unaffected. Due to the strong impact and cutting edges, half of its damage
 bypasses cold resistance.
@@ -898,9 +882,8 @@ dies. The number of spectres summoned increases with spell power.
 %%%%
 Hellfire Mortar spell
 
-Splits apart the ground in front of the caster and sculpts a terrifying weapon
-out of molten rock. This mortar will move slowly along the lava-filled chasm,
-autonomously launching gouts of magma at the caster's enemies as it does so.
+Sculpts a Hellfire Mortar that travels along a chasm of lava, firing at the 
+caster's enemies. 
 
 When it reaches the end of its path, or is obstructed in its movement by another
 creature, it will sink back into the lava, and the chasm will seal itself shut
@@ -935,13 +918,10 @@ the primary target for additional damage.
 %%%%
 Hoarfrost Cannonade spell
 
-Sculpts a pair of icy cannons that assail the caster's enemies from long range.
-The frigid shards they fire rapidly coat their targets with a layer of brittle
-frost which slows their movement.
+Sculpts a pair of icy cannons that blast enemies from a distance. Enemies struck
+are covered with rime, slowing their movements. The cannons fire a piece of 
+themselves with every shot, with their final shot being an explosion of ice.
 
-The cannons are short-lived and consume a part of themselves with every shard
-they fire, but if they survive to fire their final salvo without interference,
-it will be extra-powerful.
 %%%%
 Holy Breath spell
 
@@ -1013,20 +993,18 @@ Hurls a large and heavy metal shot.
 %%%%
 Irradiate spell
 
-Transmutes an ultra-thin layer of the caster's skin (or equivalent) directly
-into pure magical energy, blasting adjacent creatures. It may heavily deform
-its victims, weakening them and reducing their armour. The caster is not left
-entirely unaffected; some of the magic lingers, enough to leave them
-dangerously contaminated after a few castings.
+Blasts adjacent creatures with pure magical energy. It may heavily deform its 
+victims, weakening them and reducing their armour. The caster is not left 
+entirely unaffected; some of the magic lingers, enough to leave them dangerously
+contaminated after a few castings.
 %%%%
 Iskenderun's Battlesphere spell
 
-Conjures a small globe of destructive energy. Each time its creator casts a
-offensive spell, the battlesphere will also fire an unerring volley of energy at
-the most injured nearby foe it can reach.
+Conjures a small globe of destructive energy. Each time its creator casts an
+offensive spell, the battlesphere fires a volley of energy at the most injured 
+nearby foe it can reach.
 
-The battlesphere's creator can freely fire through its position without harming
-it.
+The caster can freely fire through their own Battlesphere without harming it.
 %%%%
 Iskenderun's Mystic Blast spell
 
@@ -1036,27 +1014,24 @@ Spellpower increases damage and knockback distance.
 %%%%
 Jinxbite spell
 
-Calls the attention of trickster spirits. While it holds, the spirits will
-follow up on the caster's attacks. If the spell overcomes victims' willpower,
-they will suffer minor damage and be drained by the sprites' playful malice.
+Empowers the caster's next attack with fae spirits, causing their next attack to
+inflict extra damage and drain life. Enemies may resist these effects with
+Willpower.
 
-Fae assistance is fickle, however; they cannot be beckoned unless a susceptible
-victim is visible, and will depart rapidly once no more remain. Calling on the
-fae also reduces the caster's own willpower for a time.
+Fae spirits can only be called when enemies are visible, and the caster's 
+Willpower is halved while they are empowered.
 %%%%
 Kinetic Grapnel spell
 
-Weaves a thin kinetic filament around the caster's melee weapon and launches the
-other end of it at a nearby enemy. If this grapnel successfully hits and does
-damage, it will become lodged in them, allowing the next melee attack the caster
-performs against them to strike with perfect accuracy and a small slaying bonus.
+Fires a guiding thread at an enemy; if it does any damage, it will lodge in 
+them, allowing the caster's next melee attack to strike with perfect accuracy
+and a small slaying bonus.
 %%%%
 Volatile Blastmotes spell
 
-Brings forth a cloud of volatile blastmotes around the caster. These explode
-on contact with open flame or with creatures - including any caster foolish
-enough to linger in them! The explosion is concussive, knocking adjacent
-creatures away. Damage done rises with the spell's power.
+Conjures a cloud of volatile blastmotes on the caster's square, which explode 
+on contact with open flame or other creatures (including the caster, if they
+linger). The explosion knocks back adjacent creatures.
 %%%%
 Launch Bomblet spell
 
@@ -1068,10 +1043,9 @@ the bomblet to land.
 %%%%
 Launch Clockwork Bee spell
 
-Constructs a mechanical bee and winds its clockwork mechanisms over several
-turns before unleashing it against a targeted foe. The bee is swift and
-powerful, but its clockwork quickly winds down as it attacks, eventually leaving
-it helpless and unable to move.
+Constructs a mechanical bee and winds it up over several turns before unleashing
+it against a targeted foe. The bee is swift and powerful, but its mechanism 
+winds down as it attacks, eventually leaving it helpless and unable to move.
 
 The caster may repair and rewind a dormant bee by attempting to move into it, at
 the cost of 1 MP.
@@ -1121,7 +1095,7 @@ armour, and it can be bounced off walls to hit targets twice.
 %%%%
 Magic Dart spell
 
-Fires a small bolt of magical energy which never misses.
+Fires a small bolt of magical energy which cannot miss.
 %%%%
 Magma Barrage spell
 
@@ -1130,15 +1104,11 @@ Half of its damage bypasses fire resistance.
 %%%%
 Magnavolt spell
 
-Envelops a target in a thin layer of magnetically charged metal fragments, then
-unleashes a powerful surge of electricity that arcs unerringly towards every
-visible target coated in these fragments - firing an additional beam at each
-target thus marked.
-
-Magnetised creatures are additionally unable to evade attacks and will be
-revealed if invisible. If they die while still coated, they will leave behind a
-short-lived cloud of electrified metal that will continue to serve as a
-lightning rod for this spell.
+Marks a target with metal fragments, then launches a beam of electricity 
+that arcs at marked enemies in order, simultaneously firing a beam at
+each of them. Magnetized enemies have no evasion and will be revealed if
+invisible; if they die while marked, their metal fragments will 
+continue to serve as a lightning rod for a few more turns.
 %%%%
 Major Destruction spell
 
@@ -1168,15 +1138,14 @@ cannot affect artificial beings, and the undead will decompose if affected.
 %%%%
 Manifold Assault spell
 
-Warps space into paradoxical configurations to strike many visible foes with
-one melee attack. Power increases the number of foes attacked with one cast,
-though unarmed attacks strike only half as many targets at once, as additional
-care must be taken when warping one's own limbs.
+Cuts through space to strike multiple foes with a melee attack. Power increases 
+the number of foes attacked with one cast, though unarmed attacks strike only
+half as many targets at once, as additional care must be taken when warping 
+one's own limbs.
 
 The time taken for the attack is exactly the same as a normal melee attack.
-Attacks performed this way never miss, but the exact spot struck cannot be
-controlled precisely, making them unable to do extra damage against unsuspecting
-foes.
+Attacks performed this way never miss, but you cannot perform stabbing attacks
+with this spell.
 %%%%
 Mara Summon spell
 
@@ -1197,8 +1166,8 @@ with the spell 'Foxfire', but their version is much less powerful.
 %%%%
 Martyr's Knell spell
 
-Beckons forth the soul of a long-dead martyr to shield your allies for a time.
-This soul suffers a portion of the damage your allies would otherwise receive.
+Beckons forth the soul of a long-dead martyr to shield your allies for a time,
+redirecting a portion of the damage your allies would otherwise receive.
 
 If it is slain (again!), it will transform into a flayed ghost, inflicting
 illusory wounds on foes. Such wounds are fleeting, and will disappear when the
@@ -1223,11 +1192,9 @@ Higher spell power will allow the caster to accumulate charge more rapidly.
 %%%%
 Maxwell's Portable Piledriver spell
 
-Compresses an envelope of space around the caster and an adjacent enemy (or a
-contiguous line of enemies), then allows it to decompress abruptly, propelling
-everyone forward until the unfortunate being at the far end collides with
-something solid, inflicting damage on them proportional to the distance
-travelled.
+Shoves an adjacent enemy (or a contiguous line of enemies), propelling everyone
+forward until the unfortunate being at the far end collides with something
+solid, inflicting damage on them proportional to the distance travelled.
 %%%%
 Mephitic Cloud spell
 
@@ -1282,19 +1249,14 @@ also increases the strength of the beasts themselves.
 %%%%
 Mercury Arrow spell
 
-Conjures an arrow of elemental mercury which deals direct poison damage to
-whatever it hits and may also weaken their melee attacks for a short while.
-
-The physical force of the arrow inflicts a small amount of damage even to those
-immune to poison, and the weakening effect can splash to adjacent targets and
-ignores poison resistance altogether.
+Conjures an arrow of elemental mercury, dealing impact and poison damage to the 
+victim and inflicting weakness on enemies in the area.
 %%%%
 Mourning Wail spell
 
-Exhales a stream of forgotten grief, leaving clouds of excruciating misery in
-its wake but skipping past creatures that would be vulnerable to it. These
-clouds of negative energy will rapidly drain the living of small fractions of
-their maximum health.
+Breathes clouds of excruciating misery, skipping past creatures that would be
+vulnerable to it. These clouds of negative energy rapidly drain the maximum 
+health of living creatures.
 %%%%
 Mud Breath spell
 
@@ -1302,12 +1264,9 @@ Mud Breath spell
 %%%%
 Nazja's Percussive Tempering spell
 
-Manifests a magical hammer that repairs and temporarily augments the offensive
-capabilities of any construct that was created by the caster's own Forgecraft
-spells. This process results in a flurry of sparks, slag, and concussive
-shockwaves that do considerable damage to any enemies adjacent to the targeted
-construct, but it cannot be recast upon the same object until the enhancement
-wears off.
+Instantly repairs and enhances an allied Forgecraft while blasting nearby
+enemies in the process. Cannot be recast on a Forgecraft until the
+enhancement wears off.
 %%%%
 Noxious Breath spell
 
@@ -1345,15 +1304,14 @@ impact. Its damage bypasses half of defenders' armour.
 %%%%
 Ozocubu's Armour spell
 
-Envelops the caster's body in a protective layer of thick ice, granting a
-substantial bonus to armour as long as they remain in their current location.
-The ice will crack and fall away if the caster moves to a new position. The
-spell decreases in effectiveness in heavier armour, granting a lower bonus the
-higher the encumbrance rating of the caster's armour.
+Envelops the caster's body in a protective layer of thick ice, increasing 
+their armour as long as they remain in the same spot. The spell decreases in
+effectiveness in heavier armour, granting a lower bonus the higher the
+encumbrance rating of the caster's armour.
 %%%%
 Ozocubu's Refrigeration spell
 
-Turns the air bitterly cold, freezing all other creatures in line of sight.
+Unleashes a wave of cold, freezing all creatures in line of sight.
 This is less effective against creatures packed tightly together - those
 adjacent to others will be partly insulated from the cold, taking less damage.
 %%%%
@@ -1386,13 +1344,9 @@ from their attunement to the rock.
 %%%%
 Permafrost Eruption spell
 
-Calls on the ancient cold lurking within the earth to emerge - violently. The
-force of its emergence blasts rock from the ceiling, smashing into the target
-with unavoidable force. The cold itself is brief but unbearably bitter,
-bypassing armour entirely as it freezes the target and their neighbours.
-
-It will always attempt to blast the largest concentration of foes in sight, and
-never explodes next to the caster.
+Calls forth an explosion of permafrost on the biggest concentration of enemies
+in sight, inflicting heavy cold damage to all enemies struck and severe
+physical damage on the center square. It will never explode next to the caster.
 %%%%
 Petrify spell
 
@@ -1432,18 +1386,16 @@ follows in its wake.
 Platinum Paragon spell
 
 Constructs a gleaming metal champion whose prowess rivals that of the greatest
-living warriors. It is resistant to all forms of magic and wields a perfect
-replica of any artefact melee weapon the caster chooses.
+living warriors. The Paragon performs an extra, instant attack whenever the 
+caster attacks, and can occasionally protect the caster if it is within range.
+
+The caster can use the "Imprint Weapon" ability to grant it an artefact weapon
+of their choice.
 
 It creates a damaging shockwave around itself when first deployed and slowly
-gains charge as it attacks enemies. When it has gained sufficient charge, the
-spell may be recast to overload the paragon, unleashing a flurry of attacks
-in a wide area which inflict increased damage, but destroying the paragon in the
-process.
-
-Due to the magical link it maintains with its creator, it will perform an
-extra attack whenever they do, and will sometimes even parry attacks directed at
-them, if they are close enough together.
+gains charge as it attacks enemies. At maximum charge, the spell may be recast 
+to overload the paragon, unleashing a flurry of empowered attacks in a wide 
+area and destroying it.
 %%%%
 Poison Arrow spell
 
@@ -1468,10 +1420,10 @@ Polar Vortex spell
 Turns the air around the caster into a freezing vortex, doing tremendous damage
 to everyone caught in it that can only be half-mitigated by resistance to
 cold. Those affected will also be swept up into the air and tossed around.
-Only the eye of the storm is a safe place, and it follows the caster. The
-vortex is unable to follow the caster through long-distance translocations.
-The spell's effectiveness is greatly diminished in closed areas. After the
-vortex fades, it cannot be called forth again for a short time.
+Only the eye of the storm is safe, and it follows the caster. The vortex is
+unable to follow the caster through long-distance translocations. The spell's
+effectiveness is greatly diminished in closed areas. After the vortex fades, 
+it cannot be called forth again for a short time.
 %%%%
 Polymorph spell
 
@@ -1549,15 +1501,10 @@ This regeneration is proportional to that creature's maximum health.
 %%%%
 Rending Blade spell
 
-Condenses the caster's magical energy into the form of a violently crackling
-blade. Each time the caster successfully hits with a melee attack while the
-spell is active, this blade will rend a path back and forth through nearby foes,
-dealing irresistible damage.
-
-Casting this spell temporarily drains *all* of the caster's remaining magical
-power to constitute the blade, but this energy will be returned to them as soon
-as the blade ceases to exist. Each point of magical power sequestered this way
-slightly increases the damage the blade inflicts.
+Condenses all the caster's magical energy into a blade of pure magic; the more
+magic consumed, the stronger the blade. Each time the caster attacks in melee, 
+the blade will strike through a line of foes. When the spell ends, the magical
+energy in the blade is returned to the caster.
 %%%%
 Repel Missiles spell
 
@@ -1626,7 +1573,7 @@ You can maintain up to 5 simulacra simultaneously.
 %%%%
 Seal Doors spell
 
-Imparts seals on nearby doors and stairs, preventing those not allied with
+Magically seals nearby doors and stairs, preventing those not allied with
 the caster from traversing them.
 %%%%
 Searing Ray spell
@@ -1828,14 +1775,12 @@ coalesce from the mist over time.
 %%%%
 Spellspark Servitor spell
 
-Constructs a metallic servant with a spark of the caster's own arcane knowledge
-at its core. This spark allows the servitor to unleash some of the destructive
-spells known to its creator, though the strongest and most volatile
-of magics cannot be imbued in this fashion. The strength of the servitor
-increases with spell power.
+Constructs an autonomous metallic servant with knowledge of some of the 
+caster's spells. The strength of the servitor increases with spellpower.
 
-(While you know this spell, you may choose which of your eligible spells it will
-cast with the Imbue Servitor ability.)
+The caster can use the "Imbue Servitor" ability to choose which spells to
+impart, but know that the most powerful and volatile of magics cannot be 
+imbued this way.
 %%%%
 Spit Acid spell
 
@@ -2064,14 +2009,12 @@ Calls forth a swarm of venomous scorpions.
 %%%%
 Summon Seismosaurus Egg spell
 
-Summons the egg of a brutish lizard, just on the verge of hatching. So long as
-there are foes nearby and the caster remains adjacent to the egg, it will hatch
-several turns after being summoned to wreak havoc upon its summoner's foes.
+Summons the egg of a Seismosaurus on the verge of hatching. If the caster
+remains nearby while monsters are present, it will break free in a few turns.
 
-Even as a juvenile, a seismosaurus is a force to be reckoned with. It is nearly
-as hardy as a mountain, and its footfalls are capable of creating violent
-seismic shockwaves. Each shockwave deals considerable damage to non-flying
-enemies, and may sometimes even cause them to lose their footing altogether.
+Seismosaur juveniles are hardy as mountains, and capable of delivering violent
+shockwaves by stomping their feet, dealing significant damage to non-flying
+enemies and potentially knocking them off their feet.
 %%%%
 Summon Small Mammal spell
 
@@ -2228,14 +2171,11 @@ around, slither, etc. Only motile creatures can cast this spell.
 %%%%
 Vhi's Electric Charge spell
 
-Sends the caster hurtling at a chosen nearby enemy, launching a high-accuracy
-melee attack on arrival. Additional electric damage will be dealt based on the
-length of the charge, the power of the spell, and the physical damage of the
-attack. The caster is wrapped in an envelope of twisted space, allowing them
-to safely pass through creatures, traps, and harmful terrain, and to displace
-creatures at their destination. The time taken by the spell is the greater of
-the time normally needed to cast a spell or that needed to launch one melee
-attack.
+Teleport next to a chosen nearby enemy, launching a high-accuracy melee attack
+on arrival. Additional electric damage is inflicted based on the length of the
+charge, power of the spell, and the physical damage of the attack. Creatures
+at the caster's destination are displaced. The time taken by the spell is the
+slower of the time needed to cast a spell or to launch one melee attack.
 %%%%
 Vhi's Electrolunge spell
 
@@ -2302,9 +2242,9 @@ after a short delay.
 %%%%
 Yara's Violent Unravelling spell
 
-If cast upon a creature already blessed (or cursed) with magical enchantments,
-those enchantments will be torn apart, transforming into a spray of
-destructive mutagenic radiation. The victim and anyone adjacent will be
-blasted and heavily deformed, weakening them and reducing their armour.
-Summoned creatures are particularly vulnerable, as the enchantments binding
-them to this plane will unravel and cause them to be dismissed immediately.
+Tears apart the magical enchantments (good and bad) affecting a creature,
+transforming it into a violent spray of destructive mutagenic radiation. 
+The victim and anyone adjacent become heavily deformed, weakening them and
+reducing their armor. Summoned creatures are particularly vulnerable, as 
+the enchantments binding them to this plane will unravel and cause them to 
+be dismissed immediately.
